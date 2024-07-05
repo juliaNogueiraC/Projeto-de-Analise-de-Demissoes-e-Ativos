@@ -35,13 +35,13 @@ Este script carrega dados de duas abas de uma planilha do Excel para analisar o 
 - Exibe o número de demissões por mês.
 - Exibe o número de funcionários ativos por mês.
 
-## Script 2: Análise de Tipos de Desligamento em uma Aba Específica
-Este script carrega dados de uma aba específica de uma planilha do Excel e analisa os tipos de desligamento (involuntário e voluntário) ocorridos em junho.
+## Script 2: Análise de Tipos de Desligamento
+Este script carrega dados de uma aba específica de uma planilha do Excel e analisa os tipos de desligamento (involuntário e voluntário) ocorridos por mês.
 
 ### Funcionalidades
 1. Carregamento de Dados:
 
-- Carrega a aba "DESLIGUES JUNHO" da planilha DESLIGAMENTOS 06.24.xlsx.
+- Carrega a aba "DESLIGUES" da planilha DESLIGAMENTOS.xlsx.
 2. Verificação de Coluna:
 
 - Verifica se a coluna 'TIPO DE DESLIGAMENTO' está presente na aba.
